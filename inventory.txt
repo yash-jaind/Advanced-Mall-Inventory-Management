@@ -1,0 +1,5 @@
+P001,Enterprise Server,12,145000.0
+P002,FirewallRouter,25,34000.0
+P003,MechanicalKeyboard,110,4500.0
+P004,FHDIPSMonitor,45,18500.0
+P005,WirelessMouse,60,1200.0
