@@ -36,7 +36,7 @@ A desktop-based inventory management application built using Java, JavaFX, JDBC,
 ![Product Details](productprice.png)
 
 ### Database Connectivity
-![Database](database connectivity.png)
+![Database](databaseconnectivity.png)
 
 ## Project Structure
 
