@@ -21,6 +21,23 @@ A desktop-based inventory management application built using Java, JavaFX, JDBC,
 * MySQL
 * IntelliJ IDEA
 
+## Screenshots
+
+### Main Application
+![Main Application](main-ui.png)
+
+### Add Product
+![Add Product](addproduct.png)
+
+### Update Product Stock
+![Update Stock](updatestock.png)
+
+### Product Details
+![Product Details](productprice.png)
+
+### Database Connectivity
+![Database](mysql-branch(database connectivity).png)
+
 ## Project Structure
 
 * Product.java
